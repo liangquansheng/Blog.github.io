@@ -54,7 +54,7 @@ body {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: /image/background1.jpg;
+  background: url("https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?crop=entropy&cs=srgb&dl=blue-universe-956981.jpg");
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
